@@ -9,7 +9,7 @@ const initialProducts = [
   {
     id: 'p1',
     name: 'Jordan',
-    href: '/product/wireless-headphones',
+    href: '/product',
     price: 11129.99,
     currency: 'INR',
     rating: 4.5,
@@ -20,7 +20,7 @@ const initialProducts = [
   {
     id: 'p2',
     name: 'Jordan FE',
-    href: '/product/smart-watch-7',
+    href: '/product',
     price: 12239.0,
     currency: 'INR',
     rating: 4.2,
@@ -31,7 +31,7 @@ const initialProducts = [
   {
     id: 'p3',
     name: 'Jordan SE',
-    href: '/product/4k-action-cam',
+    href: '/product',
     price: 16179.5,
     currency: 'INR',
     rating: 4.4,
@@ -41,7 +41,7 @@ const initialProducts = [
   {
     id: 'p4',
     name: 'Jordan OG',
-    href: '/product/bluetooth-speaker',
+    href: '/product',
     price: 34559.99,
     currency: 'INR',
     rating: 4.1,
